@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flora and Fauna on dybing.photo</title>
+    <link>http://localhost:1313/florafauna/</link>
+    <description>Recent content in Flora and Fauna on dybing.photo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2024 (c) Roy Dybing</copyright>
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/florafauna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fauna</title>
+      <link>http://localhost:1313/florafauna/fauna/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_0257_hucaa49390ea1bfb1053897f681a317f5f_764268_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_0257_hucaa49390ea1bfb1053897f681a317f5f_764268_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Flora</title>
+      <link>http://localhost:1313/florafauna/flora/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_1050_hucaa49390ea1bfb1053897f681a317f5f_337112_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_1050_hucaa49390ea1bfb1053897f681a317f5f_337112_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

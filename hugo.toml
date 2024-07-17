@@ -1,0 +1,13 @@
+baseURL = 'https://dybing.photo/'
+languageCode = 'en-us'
+title = 'dybing.photo'
+copyright = '2024 (c) Roy Dybing'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+[params]
+  [params.socialIcons]
+    github = "https://github.com/rDybing/"
+    twitterx = "https://x.com/DybingRoy"
+    
