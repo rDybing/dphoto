@@ -16,7 +16,7 @@ resources:
   - src: 240603.jpg
     title: View towards the Theatre - Torgallmenningen
   - src: 240604.jpg
-    title: Statue in shadow - Fisketorget
+    title: Statue in silhouette - Fisketorget
   - src: 240605.jpg
     title: Sunset towards Askøy - Skuteviken
   - src: 240606.jpg
@@ -32,7 +32,7 @@ resources:
   - src: 240611.jpg
     title: Taking a dip in cold waters on a very hot day - Nordnesparken
   - src: 240612.jpg
-    title: The pipe of USF Verftet - Nordnes
+    title: The chimney of USF Verftet - Nordnes
   - src: 240613.jpg
     title: Small traditional alley way - Nordnes
   - src: 240614.jpg

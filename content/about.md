@@ -25,7 +25,7 @@ Mostly do street photography, snapping photos of what catches my eye.
 - 50mm F1.8
 - 55-210mm F5-7.1
 
-Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot, but restrictions are good!
+Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot, but a bit of restraint is a good thing!
 
 Oh, and the R100 being a APS-C crop sensor camera - multiply the Focal Length of the lenses by 1.6 for the Full Frame equivalent. The petite size of the camera body and the smaller lighter lenses make for a very good Street Photo combo.
 

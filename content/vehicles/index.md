@@ -9,8 +9,10 @@ keywords: [Car, Motorcycle, Boat, Ship]
 #type: gallery
 weight: 4
 resources:
+  - src: IMG_0717.jpg
+    title: Veteran Beetle - Nordnes
   - src: IMG_0724.jpg
-    title: Austin 1300 - from Nordnes
+    title: Austin 1300 - Nordnes
   - src: IMG_1076.jpg
     title: Austin Healey, missing front grille - outside SAS Hotel Bryggen
   - src: IMG_1079.jpg

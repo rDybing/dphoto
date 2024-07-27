@@ -6,7 +6,9 @@ title: Flora
 sort_by: Name
 resources:
   - src: IMG_1050.jpg
-    title: Water Lillies in pond - from Nygårdsparken 
+    title: Water Lillies in pond - Nygårdsparken 
   - src: IMG_1243.jpg
-    title: Flower in garden - from Nordnes
+    title: Flower in garden - Nordnes
+  - src: IMG_1520.jpg
+    title: Flower in pot detail - Sandviken
 ---

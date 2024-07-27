@@ -6,9 +6,9 @@ title: Fauna
 sort_by: Name
 resources:
   - src: IMG_0257.jpg
-    title: Group of Ducks - from Byparken
+    title: Group of Ducks - Byparken
   - src: IMG_0930.jpg
-    title: Small bird sitting on small branch - from Nygårdsparken
+    title: Small bird sitting on small branch - Nygårdsparken
   - src: IMG_0971.jpg
-    title: Duck in water - from Nygårdsparken
+    title: Duck in water - Nygårdsparken
 ---
