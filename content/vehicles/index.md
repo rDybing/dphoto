@@ -9,6 +9,8 @@ keywords: [Car, Motorcycle, Boat, Ship]
 #type: gallery
 weight: 4
 resources:
+  - src: IMG_0420.jpg
+    title: Citroen Panel van - outside Rail Station
   - src: IMG_0717.jpg
     title: Veteran Beetle - Nordnes
   - src: IMG_0724.jpg
