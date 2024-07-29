@@ -18,6 +18,15 @@
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in June 2024&lt;/p&gt;
         </description></item>
     <item>
+      <title>Art &amp; Architecure</title>
+      <link>http://localhost:1313/artarchitecure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artarchitecure/</guid><media:content url="http://localhost:1313/artarchitecure/IMG_0566_hu273505610cc8afab63940b1e27b1b7e5_555649_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_0566_hu273505610cc8afab63940b1e27b1b7e5_555649_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Vehicles</title>
       <link>http://localhost:1313/vehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
