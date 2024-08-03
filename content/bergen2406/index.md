@@ -5,7 +5,7 @@ menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
 title: Bergen, June 2024
-keywords: [Bergen, June, Summer]
+keywords: [Bergen, June, Summer, "2024"]
 #type: gallery
 weight: 1
 resources:
@@ -22,7 +22,7 @@ resources:
   - src: 240606.jpg
     title: Bistro life - Kaigaten
   - src: 240607.jpg
-    title: Central Plaza close up- Torgallmenningen
+    title: Central Plaza close up - Torgallmenningen
   - src: 240608.jpg
     title: People strolling - Kaigaten
   - src: 240609.jpg

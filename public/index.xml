@@ -9,48 +9,57 @@
     <copyright>2024 (c) Roy Dybing</copyright>
     <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bergen, July 2024</title>
+      <link>http://localhost:1313/bergen2407/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2407/</guid><media:content url="http://localhost:1313/bergen2407/240701_hu3357121631463065534.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2407/240701_hu3357121631463065534.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in July 2024&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Bergen, June 2024</title>
       <link>http://localhost:1313/bergen2406/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2406/</guid><media:content url="http://localhost:1313/bergen2406/240612_hu273505610cc8afab63940b1e27b1b7e5_1003078_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/bergen2406/</guid><media:content url="http://localhost:1313/bergen2406/240612_hu2171632510469718465.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2406/240612_hu273505610cc8afab63940b1e27b1b7e5_1003078_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/bergen2406/240612_hu2171632510469718465.jpg&quot; /&gt;
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in June 2024&lt;/p&gt;
         </description></item>
     <item>
       <title>Art &amp; Architecure</title>
       <link>http://localhost:1313/artarchitecure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artarchitecure/</guid><media:content url="http://localhost:1313/artarchitecure/IMG_0566_hu273505610cc8afab63940b1e27b1b7e5_555649_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artarchitecure/</guid><media:content url="http://localhost:1313/artarchitecure/IMG_0566_hu775674154075456068.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_0566_hu273505610cc8afab63940b1e27b1b7e5_555649_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_0566_hu775674154075456068.jpg&quot; /&gt;
           &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
         </description></item>
     <item>
       <title>Vehicles</title>
       <link>http://localhost:1313/vehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vehicles/</guid><media:content url="http://localhost:1313/vehicles/IMG_0724_hu273505610cc8afab63940b1e27b1b7e5_817499_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/vehicles/</guid><media:content url="http://localhost:1313/vehicles/IMG_0717_hu16552370960332888730.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/vehicles/IMG_0724_hu273505610cc8afab63940b1e27b1b7e5_817499_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/vehicles/IMG_0717_hu16552370960332888730.jpg&quot; /&gt;
           &lt;p&gt;If it got an engine and moves - and is at least somewhat exotic - it&#39;ll be posted here!&lt;/p&gt;
         </description></item>
     <item>
       <title>Fauna</title>
       <link>http://localhost:1313/florafauna/fauna/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_0257_hucaa49390ea1bfb1053897f681a317f5f_764268_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_0257_hu13828563553552394625.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_0257_hucaa49390ea1bfb1053897f681a317f5f_764268_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_0257_hu13828563553552394625.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Flora</title>
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_1050_hucaa49390ea1bfb1053897f681a317f5f_337112_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_1050_hu16594779993454583503.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_1050_hucaa49390ea1bfb1053897f681a317f5f_337112_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_1050_hu16594779993454583503.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

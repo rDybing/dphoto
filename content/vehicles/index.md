@@ -1,6 +1,6 @@
 ---
 description: If it got an engine and moves - and is at least somewhat exotic - it'll be posted here!
-featured_image: IMG_0724.jpg
+featured_image: IMG_0717.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -21,6 +21,8 @@ resources:
     title: Mercedes from Midnight Sun rally - outside SAS Hotel Bryggen
   - src: IMG_1087.jpg
     title: Datsun from Midnight Sun rally - outside SAS Hotel Bryggen
+  - src: IMG_1252.jpg
+    title: The Hurtigruten ship "Trollfjord" departing - Nordnes
 params:
   theme: dark
 ---
