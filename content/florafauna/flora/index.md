@@ -6,9 +6,15 @@ title: Flora
 sort_by: Name
 resources:
   - src: IMG_1050.jpg
-    title: Water Lillies in pond - Nygårdsparken 
+    title: Water Lillies in pond - Bergen 
   - src: IMG_1243.jpg
-    title: Flower in garden - Nordnes
+    title: Flower in garden - Bergen
   - src: IMG_1520.jpg
-    title: Flower in pot detail - Sandviken
+    title: Flower in pot detail - Bergen
+  - src: IMG_1328.jpg
+    title: Blue flowers in a bush - Bergen 
+  - src: IMG_2196.jpg
+    title: Yellow Rose at night - Bergen
+  - src: IMG_2346.jpg
+    title: Sunflower - Bergen
 ---

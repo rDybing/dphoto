@@ -23,6 +23,10 @@ resources:
     title: Datsun from Midnight Sun rally - outside SAS Hotel Bryggen
   - src: IMG_1252.jpg
     title: The Hurtigruten ship "Trollfjord" departing - Nordnes
+  - src: IMG_1192.jpg
+    title: Indian brand Royal Enfield Motorcycle. Vintage styling brand new - Vågen
+  - src: IMG_1528.jpg
+    title: I have no idea what make of van this is, but I like it! - Vågen
 params:
   theme: dark
 ---
