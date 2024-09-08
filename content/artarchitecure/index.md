@@ -19,7 +19,7 @@ resources:
     title: Traditional wood houses in alleyway at night - Bergen
   - src: IMG_2241.jpg
     title: Fløibanen entrance by night - Bergen
-  - src: IMG_1244.jpg
+  - src: IMG_2356.jpg
     title: Mariakirken, newly restored - Bergen
 params:
   theme: dark
