@@ -22,6 +22,7 @@ Mostly do street photography, snapping photos of what catches my eye.
 - Canon EOS R100
 - 16mm F2.8
 - 18-45mm F4.5-6.3
+- 35mm F0.95
 - 50mm F1.8
 - 55-210mm F5-7.1
 
