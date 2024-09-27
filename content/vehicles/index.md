@@ -27,6 +27,10 @@ resources:
     title: Indian brand Royal Enfield Motorcycle. Vintage styling brand new - Vågen
   - src: IMG_1528.jpg
     title: I have no idea what make of van this is, but I like it! - Vågen
+  - src: IMG_3124.jpg
+    title: Old English classic, a Morgan - Vågen
+  - src: IMG_3483.jpg
+    title: More modern American classic, Trans Am - Vågen
 params:
   theme: dark
 ---
