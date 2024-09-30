@@ -4,7 +4,7 @@ description: Nature photos from in and around Bergen where not otherwise specifi
 #featured: true
 keywords: [Animals, Flowers]
 title: Flora and Fauna
-weight: 3
+weight: 9
 menus: "main"
 params:
   theme: dark

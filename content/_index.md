@@ -1,6 +1,6 @@
 ---
-description: Updated September 27th - Added a couple of new car pictures.
-lastmod: 2024-09-08
+description: Updated October 1st - Added best from September.
+#lastmod: 2024-10-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

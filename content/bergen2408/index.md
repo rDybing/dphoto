@@ -5,9 +5,10 @@ menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
 title: Bergen, August 2024
+date: 2024-09-01
 keywords: [Bergen, August, Summer, "2024"]
 #type: gallery
-weight: 1
+weight: 5
 resources:
   - src: 240801.jpg
     title: People out enjoying the sun with a cold one, or three - Bryggen

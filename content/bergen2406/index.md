@@ -5,9 +5,10 @@ menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
 title: Bergen, June 2024
+date: 2024-07-01
 keywords: [Bergen, June, Summer, "2024"]
 #type: gallery
-weight: 1
+weight: 5
 resources:
   - src: 240601.jpg
     title: Horse and Carriage - Bryggen

@@ -7,7 +7,7 @@ sort_by: Name # Exif.Date
 title: Vehicles
 keywords: [Car, Motorcycle, Boat, Ship]
 #type: gallery
-weight: 4
+weight: 9
 resources:
   - src: IMG_0420.jpg
     title: Citroen Panel van - outside Rail Station

@@ -1,6 +1,6 @@
 ---
 date: 2024-07-17
-#featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
+featured_image: IMG_2196.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -17,4 +17,6 @@ resources:
     title: Yellow Rose at night - Bergen
   - src: IMG_2346.jpg
     title: Sunflower - Bergen
+  - src: IMG_2676.jpg
+    title: Flower with the dew on the petals - Bergen
 ---

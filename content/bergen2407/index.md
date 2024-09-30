@@ -5,9 +5,10 @@ menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
 title: Bergen, July 2024
+date: 2024-08-01
 keywords: [Bergen, July, Summer, "2024"]
 #type: gallery
-weight: 1
+weight: 5
 resources:
   - src: 240701.jpg
     title: Fountain caught with slow shutterspeed - Nygårdsparken

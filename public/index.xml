@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024 (c) Roy Dybing</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, September 2024</title>
+      <link>http://localhost:1313/bergen2409/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2409/</guid><media:content url="http://localhost:1313/bergen2409/240905_hu16065267985516044718.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2409/240905_hu16065267985516044718.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in September 2024&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, August 2024</title>
       <link>http://localhost:1313/bergen2408/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bergen2408/</guid><media:content url="http://localhost:1313/bergen2408/240806_hu9813699370935131113.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/bergen2408/240806_hu9813699370935131113.jpg&quot; /&gt;
@@ -20,7 +29,7 @@
     <item>
       <title>Bergen, July 2024</title>
       <link>http://localhost:1313/bergen2407/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bergen2407/</guid><media:content url="http://localhost:1313/bergen2407/240715_hu17980021010515686456.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/bergen2407/240715_hu17980021010515686456.jpg&quot; /&gt;
@@ -29,7 +38,7 @@
     <item>
       <title>Bergen, June 2024</title>
       <link>http://localhost:1313/bergen2406/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bergen2406/</guid><media:content url="http://localhost:1313/bergen2406/240612_hu2171632510469718465.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/bergen2406/240612_hu2171632510469718465.jpg&quot; /&gt;
@@ -39,9 +48,9 @@
       <title>Art &amp; Architecure</title>
       <link>http://localhost:1313/artarchitecure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artarchitecure/</guid><media:content url="http://localhost:1313/artarchitecure/IMG_0566_hu775674154075456068.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artarchitecure/</guid><media:content url="http://localhost:1313/artarchitecure/IMG_2185_hu4884068152532097530.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_0566_hu775674154075456068.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_2185_hu4884068152532097530.jpg&quot; /&gt;
           &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
         </description></item>
     <item>
@@ -57,18 +66,18 @@
       <title>Fauna</title>
       <link>http://localhost:1313/florafauna/fauna/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_2525_hu1872490552688973054.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_3417_hu11236053790915186715.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2525_hu1872490552688973054.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_3417_hu11236053790915186715.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Flora</title>
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_1050_hu16594779993454583503.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_2196_hu15862505223404428135.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_1050_hu16594779993454583503.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_2196_hu15862505223404428135.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
