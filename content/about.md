@@ -15,6 +15,10 @@ Yes, I could have gotten a dog - problem is - I prefer cats 😺
 
 Mostly do street photography, snapping photos of what catches my eye.
 
+### Editing
+
+I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimal and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy. Finally, to make the colours pop a bit more, I usually settle for a colour temperature of around 5k and apply Fujifilm Velvia (day shots) or Provia (night shots) filter. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
+
 ### Gear
 
 **For when nice and dry:**
@@ -22,7 +26,8 @@ Mostly do street photography, snapping photos of what catches my eye.
 - Canon EOS R100
 - 16mm F2.8
 - 18-45mm F4.5-6.3
-- 35mm F0.95
+- 23mm F1.4 (manual)
+- 35mm F0.95 (manual)
 - 50mm F1.8
 - 55-210mm F5-7.1
 

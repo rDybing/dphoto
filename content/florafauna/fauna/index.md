@@ -1,5 +1,5 @@
 ---
-date: 2024-09-06
+date: 2024-10-17
 featured_image: IMG_3417.jpg
 title: Fauna
 #type: gallery
@@ -17,4 +17,6 @@ resources:
     title: Duck (I think) spreading its' wings - Bergen
   - src: IMG_3417.jpg
     title: Swan really close up - Bergen
+  - src: IMG_4029.jpg
+    title: Crow taking off - Bergen
 ---

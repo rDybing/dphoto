@@ -1,4 +1,5 @@
 ---
+date: 2024-10-17
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
 featured_image: IMG_2185.jpg
 menus: "main"
@@ -19,10 +20,16 @@ resources:
     title: Bryggen by night - Bergen
   - src: IMG_2185.jpg
     title: Traditional wood houses in alleyway at night - Bergen
+  - src: IMG_2199.jpg
+    title: Norwegian Trolls - Bergen
   - src: IMG_2241.jpg
     title: Fløibanen entrance by night - Bergen
   - src: IMG_2356.jpg
     title: Mariakirken, newly restored - Bergen
+  - src: IMG_3871.jpg
+    title: Crooked lightpole outside the Theater - Bergen
+  - src: IMG_3894.jpg
+    title: Entrance to Hotel Norge - Bergen
 params:
   theme: dark
 ---
