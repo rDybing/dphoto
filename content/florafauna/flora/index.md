@@ -1,5 +1,5 @@
 ---
-date: 2024-10-17
+date: 2024-11-01
 featured_image: IMG_2196.jpg
 title: Flora
 #type: gallery
@@ -17,8 +17,12 @@ resources:
     title: Yellow Rose at night - Bergen
   - src: IMG_2346.jpg
     title: Sunflower - Bergen
+  - src: IMG_2470.jpg
+    title: Autumn Bush - Bergen
   - src: IMG_2676.jpg
     title: Flower with the dew on the petals - Bergen
+  - src: IMG_3854.jpg
+    title: Backlit decorative plant - Bergen
   - src: IMG_4039.jpg
     title: Autumn leaves close up - Bergen
 ---

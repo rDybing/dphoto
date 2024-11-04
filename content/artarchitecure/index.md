@@ -26,6 +26,8 @@ resources:
     title: Fløibanen entrance by night - Bergen
   - src: IMG_2356.jpg
     title: Mariakirken, newly restored - Bergen
+  - src: IMG_2764.jpg
+    title: Sculpture by Historic Art Gallery - Bergen
   - src: IMG_3871.jpg
     title: Crooked lightpole outside the Theater - Bergen
   - src: IMG_3894.jpg

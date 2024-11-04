@@ -1,6 +1,6 @@
 ---
-description: Updated October 17th - Added some nature and architecture shots.
-#lastmod: 2024-10-17
+description: Updated November 3rd - Added October Gallery.
+#lastmod: 2024-11-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
