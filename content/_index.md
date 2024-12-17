@@ -1,5 +1,5 @@
 ---
-description: Updated December 4th - Added November Gallery.
+description: Updated December 17th - Added to Flora.
 #lastmod: 2024-12-04
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
