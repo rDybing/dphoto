@@ -1,6 +1,6 @@
 ---
-description: Updated December 17th - Added to Flora.
-#lastmod: 2024-12-04
+description: Updated January 6th - Added December 2024 and Architecture.
+#lastmod: 2025-01-06
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

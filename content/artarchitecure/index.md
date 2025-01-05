@@ -1,5 +1,5 @@
 ---
-date: 2024-10-17
+date: 2025-01-05
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
 featured_image: IMG_2185.jpg
 menus: "main"
@@ -14,8 +14,6 @@ resources:
     title: Detail of building outside Rail Station - Bergen
   - src: IMG_0566.jpg
     title: Installation - outside district (Gulating) court house - Bergen
-  - src: IMG_1244.jpg
-    title: Old phone booth - now book exchange booth - Bergen
   - src: IMG_1972.jpg
     title: Bryggen by night - Bergen
   - src: IMG_2185.jpg
@@ -30,8 +28,12 @@ resources:
     title: Sculpture by Historic Art Gallery - Bergen
   - src: IMG_3871.jpg
     title: Crooked lightpole outside the Theater - Bergen
-  - src: IMG_3894.jpg
-    title: Entrance to Hotel Norge - Bergen
+  - src: IMG_5002.jpg
+    title: Sidewalk detail - Bergen
+  - src: IMG_5178.jpg
+    title: Seagull on a pedestal - Bergen
+  - src: IMG_5791.jpg
+    title: Sketchy alley way at night - Bergen
 params:
   theme: dark
 ---
