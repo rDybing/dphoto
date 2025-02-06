@@ -10,27 +10,31 @@ keywords: [Car, Motorcycle, Boat, Ship]
 weight: 9
 resources:
   - src: IMG_0420.jpg
-    title: Citroen Panel van - outside Rail Station
+    title: Citroen Panel van
   - src: IMG_0717.jpg
-    title: Veteran Beetle - Nordnes
+    title: Veteran Beetle
   - src: IMG_0724.jpg
-    title: Austin 1300 - Nordnes
+    title: Austin 1300
+  - src: IMG_0768.jpg
+    title: Small Honda bike
   - src: IMG_1076.jpg
-    title: Austin Healey, missing front grille - outside SAS Hotel Bryggen
+    title: Austin Healey, missing front grille
   - src: IMG_1079.jpg
-    title: Mercedes from Midnight Sun rally - outside SAS Hotel Bryggen
+    title: Mercedes from Midnight Sun rally
   - src: IMG_1087.jpg
-    title: Datsun from Midnight Sun rally - outside SAS Hotel Bryggen
+    title: Datsun from Midnight Sun rally
   - src: IMG_1252.jpg
-    title: The Hurtigruten ship "Trollfjord" departing - Nordnes
+    title: The Hurtigruten ship "Trollfjord" departing
   - src: IMG_1192.jpg
-    title: Indian brand Royal Enfield Motorcycle. Vintage styling brand new - Vågen
+    title: Indian brand Royal Enfield Motorcycle. Vintage styling brand new
   - src: IMG_1528.jpg
-    title: I have no idea what make of van this is, but I like it! - Vågen
+    title: I have no idea what make of van this is, but I like it!
   - src: IMG_3124.jpg
-    title: Old English classic, a Morgan - Vågen
+    title: Old English classic, a Morgan
   - src: IMG_3483.jpg
-    title: More modern American classic, Trans Am - Vågen
+    title: More modern American classic, Trans Am
+  - src: IMG_6362.jpg
+    title: Tiny little Electric "car"
 params:
   theme: dark
 ---
