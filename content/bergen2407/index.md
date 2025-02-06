@@ -11,35 +11,35 @@ keywords: [Bergen, July, Summer, "2024"]
 weight: 5
 resources:
   - src: 240701.jpg
-    title: Fountain caught with slow shutterspeed - Nygårdsparken
+    title: Fountain caught with slow shutterspeed
   - src: 240702.jpg
-    title: Light Rail underpass - Nygård
+    title: Light Rail underpass
   - src: 240703.jpg
-    title: New(-ish) apartments at the seaside - Solheim
+    title: New(-ish) apartments at the seaside
   - src: 240704.jpg
-    title: Kayaker - Puddefjorden
+    title: Kayaker
   - src: 240705.jpg
-    title: View of Ulriken, paraglider added for free! - Center
+    title: View of Ulriken, paraglider added for free!
   - src: 240706.jpg
-    title: Very old wood building - Bryggen
+    title: Very old wood building
   - src: 240707.jpg
-    title: It's not gardening as such... - Støletorget
+    title: It's not gardening as such...
   - src: 240708.jpg
-    title: Cyclists in a puddle - Fisketorget
+    title: Cyclists in a puddle
   - src: 240709.jpg
-    title: People out enjoying the sun - Center
+    title: People out enjoying the sun
   - src: 240710.jpg
-    title: Dutch angle - Vågsallmenningen
+    title: Dutch angle
   - src: 240711.jpg
-    title: Family having fun in the park - Central Park
+    title: Family having fun in the park
   - src: 240712.jpg
-    title: Crosswalk People - Fisketorget
+    title: Crosswalk People
   - src: 240713.jpg
-    title: Reflected girl - Marken
+    title: Reflected girl
   - src: 240714.jpg
-    title: Woofie on walkies - Torgallmenningen
+    title: Woofie on walkies
   - src: 240715.jpg
-    title: Iconic row of buildings - Vågsallmenningen
+    title: Iconic row of buildings
 params:
   theme: dark
 ---

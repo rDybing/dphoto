@@ -11,35 +11,35 @@ keywords: [Bergen, August, Summer, "2024"]
 weight: 5
 resources:
   - src: 240801.jpg
-    title: People out enjoying the sun with a cold one, or three - Bryggen
+    title: People out enjoying the sun with a cold one, or three
   - src: 240802.jpg
-    title: Not very sober man cooling his feet in a fountain - Torgalmenningen
+    title: Not very sober man cooling his feet in a fountain
   - src: 240803.jpg
-    title: A cute little pewdiecat - Stølen
+    title: A cute little pewdiecat
   - src: 240804.jpg
-    title: Sunset and silhouettes - Sandviken
+    title: Sunset and silhouettes
   - src: 240805.jpg
-    title: People on other side of bus stop - Vågsallmenningen
+    title: People on other side of bus stop
   - src: 240806.jpg
-    title: The Music Pavillion at night - Center Park
+    title: The Music Pavillion at night
   - src: 240807.jpg
-    title: People crossing the street - Center
+    title: People crossing the street
   - src: 240808.jpg
-    title: Crew packing up after a small concert - Sandviken
+    title: Crew packing up after a small concert
   - src: 240809.jpg
-    title: Boat coming into harbour - Vågen
+    title: Boat coming into harbour
   - src: 240810.jpg
-    title: Bryggen by night - Vågen
+    title: Bryggen by night
   - src: 240811.jpg
-    title: Sitting man caught in headlights - Fisketorget
+    title: Sitting man caught in headlights
   - src: 240812.jpg
-    title: Duck and reflected people - Central Park
+    title: Duck and reflected people
   - src: 240813.jpg
-    title: People in park at night - Vågen
+    title: People in park at night
   - src: 240814.jpg
-    title: Another pewdiecat - Stølen
+    title: Another pewdiecat
   - src: 240815.jpg
-    title: Roof tiles on a wall - Stølen
+    title: Roof tiles on a wall
 params:
   theme: dark
 ---

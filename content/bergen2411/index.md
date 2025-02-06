@@ -11,35 +11,35 @@ keywords: [Bergen, November, Winter, "2024"]
 weight: 5
 resources:
   - src: 241101.jpg
-    title: Snowy night at local park - Sandviken
+    title: Snowy night at local park
   - src: 241102.jpg
-    title: Sunny view towards the old fort - Bryggen
+    title: Sunny view towards the old fort
   - src: 241103.jpg
-    title: Signage going up at renovated old shopping center - Torgallmenningen
+    title: Signage going up at renovated old shopping center
   - src: 241104.jpg
-    title: Winter footpath - Central Park
+    title: Winter footpath
   - src: 241105.jpg
-    title: Kids about to ride front teefers deleters - Vågen
+    title: Kids about to ride front teefers deleters
   - src: 241106.jpg
-    title: Successful night prowler - Bryggen
+    title: Successful night prowler
   - src: 241107.jpg
-    title: Night reflection in puddle - Central Park
+    title: Night reflection in puddle
   - src: 241108.jpg
-    title: Night snacks weren't - Vågen
+    title: Night snacks weren't
   - src: 241109.jpg
-    title: Snowy tree with decorations - Sandviken
+    title: Snowy tree with decorations
   - src: 241110.jpg
-    title: Blurry girl through bus shed - Center
+    title: Blurry girl through bus shed
   - src: 241111.jpg
-    title: Italian restaurant at night - Vågen
+    title: Italian restaurant at night
   - src: 241112.jpg
-    title: Pigeon over Lille Lungeren - Central Park
+    title: Pigeon over Lille Lungeren
   - src: 241113.jpg
-    title: Girl and boy - Vågen
+    title: Girl and boy
   - src: 241114.jpg
-    title: Mirror on street - Bryggen
+    title: Mirror on street
   - src: 241115.jpg
-    title: Vågen by night - Bryggen
+    title: Vågen by night
 params:
   theme: dark
 ---

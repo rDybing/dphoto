@@ -11,35 +11,35 @@ keywords: [Bergen, December, Winter, "2024"]
 weight: 5
 resources:
   - src: 241201.jpg
-    title: View at sunset - Sandviken
+    title: View at sunset
   - src: 241202.jpg
-    title: Across the harbour at night - Bryggen
+    title: Across the harbour at night
   - src: 241203.jpg
-    title: Woofie siblings on walkies - Torgallmenningen
+    title: Woofie siblings on walkies
   - src: 241204.jpg
-    title: People milling about - Central Park
+    title: People milling about
   - src: 241205.jpg
-    title: Have fountain, need water - Torgallmenningen
+    title: Have fountain, need water
   - src: 241206.jpg
-    title: Jam-packed light rail stop - Center
+    title: Jam-packed light rail stop
   - src: 241207.jpg
-    title: Locked up bikes at night - Center
+    title: Locked up bikes at night
   - src: 241208.jpg
-    title: Small bonfire at Xmas market - Sandviken
+    title: Small bonfire at Xmas market
   - src: 241209.jpg
-    title: More maintenance on church - Nordnes
+    title: More maintenance on church
   - src: 241210.jpg
-    title: Night-time scene in backstreets - Center
+    title: Night-time scene in backstreets
   - src: 241211.jpg
-    title: Very late season tourists - Vågen
+    title: Very late season tourists
   - src: 241212.jpg
-    title: Isn't that the cutest little face ever? - Nordnes
+    title: Isn't that the cutest little face ever?
   - src: 241213.jpg
-    title: Sculpture outside Police Station - Center
+    title: Sculpture outside Police Station
   - src: 241214.jpg
-    title: Girl very prepared for rain - Center
+    title: Girl very prepared for rain
   - src: 241215.jpg
-    title: Man enjoying a rare onset of sunshine - Sandviken
+    title: Man enjoying a rare onset of sunshine
 params:
   theme: dark
 ---

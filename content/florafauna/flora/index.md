@@ -1,5 +1,5 @@
 ---
-date: 2024-12-17
+date: 2025-02-05
 featured_image: IMG_2196.jpg
 title: Flora
 #type: gallery
@@ -27,4 +27,6 @@ resources:
     title: Backlit decorative plant - Bergen
   - src: IMG_4039.jpg
     title: Autumn leaves close up - Bergen
+  - src: IMG_6003.jpg
+    title: Vines on a fence - Bergen
 ---

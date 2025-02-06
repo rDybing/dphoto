@@ -11,35 +11,35 @@ keywords: [Bergen, June, Summer, "2024"]
 weight: 5
 resources:
   - src: 240601.jpg
-    title: Horse and Carriage - Bryggen
+    title: Horse and Carriage
   - src: 240602.jpg
-    title: Twilight over the center of town - Skansen
+    title: Twilight over the center of town
   - src: 240603.jpg
-    title: View towards the Theatre - Torgallmenningen
+    title: View towards the Theatre
   - src: 240604.jpg
-    title: Statue in silhouette - Fisketorget
+    title: Statue in silhouette
   - src: 240605.jpg
-    title: Sunset towards Askøy - Skuteviken
+    title: Sunset towards Askøy
   - src: 240606.jpg
-    title: Bistro life - Kaigaten
+    title: Bistro life
   - src: 240607.jpg
-    title: Central Plaza close up - Torgallmenningen
+    title: Central Plaza close up
   - src: 240608.jpg
-    title: People strolling - Kaigaten
+    title: People strolling
   - src: 240609.jpg
-    title: Old traditional boat heading out - Nordnes
+    title: Old traditional boat heading out
   - src: 240610.jpg
-    title: Trees and woman at the park - Nordnesparken
+    title: Trees and woman at the park
   - src: 240611.jpg
-    title: Taking a dip in cold waters on a very hot day - Nordnesparken
+    title: Taking a dip in cold waters on a very hot day
   - src: 240612.jpg
-    title: The chimney of USF Verftet - Nordnes
+    title: The chimney of USF Verftet
   - src: 240613.jpg
-    title: Small traditional alley way - Nordnes
+    title: Small traditional alley way
   - src: 240614.jpg
-    title: People in park - Lille Lungegårdsvann
+    title: People in park
   - src: 240615.jpg
-    title: Yellow bike - Skostredet
+    title: Yellow bike
 params:
   theme: dark
 ---
