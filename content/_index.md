@@ -1,5 +1,5 @@
 ---
-description: Updated February 6th - Added January 2025 and Flora.
+description: Updated March 3rd - Added February 2025 and Fauna.
 #lastmod: 2025-02-06
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

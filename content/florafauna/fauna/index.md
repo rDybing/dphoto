@@ -19,4 +19,6 @@ resources:
     title: Swan really close up - Bergen
   - src: IMG_4029.jpg
     title: Crow taking off - Bergen
+  - src: IMG_6664.jpg
+    title: Duckies in Central Pond - Bergen 
 ---
