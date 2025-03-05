@@ -11,7 +11,7 @@ keywords: [Bergen, February, Winter, "2025"]
 weight: 5
 resources:
   - src: 250201.jpg
-    title: Anchor outside "Stasraaden"
+    title: Anchor outside "Statsraaden"
   - src: 250202.jpg
     title: Bar street for chilling - not partying
   - src: 250203.jpg
