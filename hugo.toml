@@ -1,7 +1,7 @@
 baseURL = 'https://dybing.photo/'
 languageCode = 'en-us'
 title = 'dybing.photo'
-copyright = '2024 (c) Roy Dybing'
+copyright = '2024-2025 (c) Roy Dybing'
 
 [module]
   [[module.imports]]

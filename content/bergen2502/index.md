@@ -5,7 +5,7 @@ menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
 title: Bergen, February 2025
-date: 2025-02-01
+date: 2025-03-01
 keywords: [Bergen, February, Winter, "2025"]
 #type: gallery
 weight: 5

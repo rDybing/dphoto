@@ -6,24 +6,26 @@
     <description>Recent content in Flora and Fauna on dybing.photo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2024 (c) Roy Dybing</copyright>
+    <copyright>2024-2025 (c) Roy Dybing</copyright>
     <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/florafauna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flora</title>
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/flora/</guid><media:content url="http://localhost:1313/florafauna/flora/IMG_2196_hu_9af86bc9bdf1090b.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/flora/</guid>
+        <media:content url="http://localhost:1313/florafauna/flora/IMG_2196_hu_18abb5674321d844.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_2196_hu_9af86bc9bdf1090b.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_2196_hu_18abb5674321d844.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Fauna</title>
       <link>http://localhost:1313/florafauna/fauna/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/fauna/</guid><media:content url="http://localhost:1313/florafauna/fauna/IMG_3417_hu_a9cb13fce682b29f.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/florafauna/fauna/</guid>
+        <media:content url="http://localhost:1313/florafauna/fauna/IMG_3417_hu_bc5bb8f8ffd2c3a0.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_3417_hu_a9cb13fce682b29f.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_3417_hu_bc5bb8f8ffd2c3a0.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
