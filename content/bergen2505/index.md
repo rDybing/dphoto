@@ -31,7 +31,7 @@ resources:
   - src: 250510.jpg
     title: Shoe
   - src: 250511.jpg
-    title: Silhuette woman
+    title: Silhouette woman
   - src: 250512.jpg
     title: Windy angel
   - src: 250513.jpg

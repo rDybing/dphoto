@@ -1,6 +1,6 @@
 ---
-date: 2025-02-05
-featured_image: IMG_2196.jpg
+date: 2025-06-10
+featured_image: IMG_2676.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -9,24 +9,14 @@ resources:
     title: Water Lillies in pond - Bergen 
   - src: IMG_1243.jpg
     title: Flower in garden - Bergen
+  - src: IMG_1364.jpg
+    title: White flowers - Bergen
   - src: IMG_1520.jpg
-    title: Flower in pot detail - Bergen
-  - src: IMG_1328.jpg
-    title: Blue flowers in a bush - Bergen 
-  - src: IMG_2196.jpg
-    title: Yellow Rose at night - Bergen
-  - src: IMG_2346.jpg
-    title: Sunflower - Bergen
-  - src: IMG_2470.jpg
-    title: Autumn Bush - Bergen
+    title: Flower close up - Bergen 
   - src: IMG_2676.jpg
     title: Flower with the dew on the petals - Bergen
-  - src: IMG_3316.jpg
-    title: Tree with berries - Bergen
-  - src: IMG_3854.jpg
-    title: Backlit decorative plant - Bergen
-  - src: IMG_4039.jpg
-    title: Autumn leaves close up - Bergen
   - src: IMG_6003.jpg
-    title: Vines on a fence - Bergen
+    title: Crawling bush on fence - Bergen
+  - src: IMG_9145.jpg
+    title: Tulip - Bergen
 ---

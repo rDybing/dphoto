@@ -1,5 +1,5 @@
 ---
-description: Updated June 11th - Added May 2025.
+description: Updated June 11th - Redid Flora and Fauna.
 #lastmod: 2025-06-10
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
