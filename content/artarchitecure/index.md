@@ -1,7 +1,7 @@
 ---
-date: 2025-01-05
+date: 2025-06-21
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
-featured_image: IMG_2185.jpg
+featured_image: IMG_3871.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -10,30 +10,30 @@ keywords: [Art, Street Art, Building, Architecure, Fountain, Sculpture]
 #type: gallery
 weight: 9
 resources:
-  - src: IMG_0423.jpg
-    title: Detail of building outside Rail Station - Bergen
-  - src: IMG_0566.jpg
-    title: Installation - outside district (Gulating) court house - Bergen
-  - src: IMG_1972.jpg
-    title: Bryggen by night - Bergen
+  - src: IMG_2119.jpg
+    title: War Sailors statue - Bergen
   - src: IMG_2185.jpg
     title: Traditional wood houses in alleyway at night - Bergen
-  - src: IMG_2199.jpg
-    title: Norwegian Trolls - Bergen
-  - src: IMG_2241.jpg
-    title: Fløibanen entrance by night - Bergen
-  - src: IMG_2356.jpg
-    title: Mariakirken, newly restored - Bergen
-  - src: IMG_2764.jpg
-    title: Sculpture by Historic Art Gallery - Bergen
+  - src: IMG_2759.jpg
+    title: Norwegian Flag grafitti - Bergen
+  - src: IMG_2784.jpg
+    title: Galleriet skylight - Bergen
+  - src: IMG_3511.jpg
+    title: Mariakirken in winter afternoon light - Bergen
   - src: IMG_3871.jpg
     title: Crooked lightpole outside the Theater - Bergen
   - src: IMG_5002.jpg
     title: Sidewalk detail - Bergen
-  - src: IMG_5178.jpg
-    title: Seagull on a pedestal - Bergen
-  - src: IMG_5791.jpg
-    title: Sketchy alley way at night - Bergen
+  - src: IMG_5518.jpg
+    title: Sandviken buildings in winter morning light - Bergen
+  - src: IMG_6449.jpg
+    title: Cat and Boy mural on wall - Bergen
+  - src: IMG_7301.jpg
+    title: Water installation outside Grieghallen - Bergen
+  - src: IMG_9516.jpg
+    title: Fountain in Nygårdsparken - Bergen
+  - src: IMG_9601.jpg
+    title: Art installation in relation to Festspillene 2025 - Bergen
 params:
   theme: dark
 ---

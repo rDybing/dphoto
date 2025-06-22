@@ -1,6 +1,6 @@
 ---
-description: Updated June 11th - Redid Flora and Fauna.
-#lastmod: 2025-06-10
+description: Updated June 22th - Redid Art and Architecure.
+#lastmod: 2025-06-20
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

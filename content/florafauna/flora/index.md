@@ -16,7 +16,7 @@ resources:
   - src: IMG_2676.jpg
     title: Flower with the dew on the petals - Bergen
   - src: IMG_6003.jpg
-    title: Crawling bush on fence - Bergen
+    title: Crawling vine on fence - Bergen
   - src: IMG_9145.jpg
     title: Tulip - Bergen
 ---
