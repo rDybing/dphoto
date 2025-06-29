@@ -1,5 +1,5 @@
 ---
-date: 2025-06-10
+date: 2025-06-28
 featured_image: IMG_2676.jpg
 title: Flora
 #type: gallery
@@ -17,6 +17,8 @@ resources:
     title: Flower with the dew on the petals - Bergen
   - src: IMG_6003.jpg
     title: Crawling vine on fence - Bergen
+  - src: IMG_8404.jpg
+    title: White flowers on bush - Bergen
   - src: IMG_9145.jpg
     title: Tulip - Bergen
 ---

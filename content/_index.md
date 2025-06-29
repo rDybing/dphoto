@@ -1,6 +1,6 @@
 ---
-description: Updated June 22th - Redid Art and Architecure.
-#lastmod: 2025-06-20
+description: Updated June 29th - Redid Vehicles.
+#lastmod: 2025-06-29
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
