@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2025 (c) Roy Dybing</copyright>
-    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, June 2025</title>
+      <link>http://localhost:1313/bergen2506/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2506/</guid>
+        <media:content url="http://localhost:1313/bergen2506/250609_hu_440bfbd5427d0010.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2506/250609_hu_440bfbd5427d0010.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in June 2025&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, May 2025</title>
       <link>http://localhost:1313/bergen2505/</link>

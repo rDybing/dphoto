@@ -24,12 +24,14 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 **For when nice and dry:**
 
 - Canon EOS R100
-- 16mm F2.8
-- 18-45mm F4.5-6.3
-- 23mm F1.4 (manual)
-- 35mm F0.95 (manual)
-- 50mm F1.8
-- 55-210mm F5-7.1
+- 10mm F2 (MF)
+- 16mm F2.8 (AF)
+- 18-45mm F4.5-6.3 (AF)
+- 23mm F1.4 (MF)
+- 35mm F0.95 (MF)
+- 50mm F1.8 (AF)
+- 55-210mm F5-7.1 (AF)
+- 250mm F5.6 (MF)
 
 Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot, but a bit of restraint is a good thing!
 
