@@ -1,6 +1,6 @@
 ---
 date: 2025-08-01
-featured_image: IMG_2525.jpg
+featured_image: IMG_2138.jpg
 title: Fauna
 #type: gallery
 sort_by: Name

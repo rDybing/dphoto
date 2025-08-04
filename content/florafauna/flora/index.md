@@ -1,6 +1,6 @@
 ---
-date: 2025-06-28
-featured_image: IMG_2676.jpg
+date: 2025-08-01
+featured_image: IMG_1890.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -11,8 +11,8 @@ resources:
     title: Flower in garden - Bergen
   - src: IMG_1364.jpg
     title: White flowers - Bergen
-  - src: IMG_1520.jpg
-    title: Flower close up - Bergen 
+  - src: IMG_1890.jpg
+    title: Sunflower and bee - Bergen 
   - src: IMG_2676.jpg
     title: Flower with the dew on the petals - Bergen
   - src: IMG_6003.jpg
