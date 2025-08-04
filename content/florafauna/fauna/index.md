@@ -1,5 +1,5 @@
 ---
-date: 2025-06-10
+date: 2025-08-01
 featured_image: IMG_2525.jpg
 title: Fauna
 #type: gallery
@@ -15,8 +15,8 @@ resources:
     title: Trio of swans - Bergen
   - src: IMG_2525.jpg
     title: Duck spreading its' wings - Bergen
-  - src: IMG_3398.jpg
-    title: Pigeon portrait - Bergen
+  - src: IMG_2138.jpg
+    title: Wet pigeon - Bergen
   - src: IMG_4029.jpg
     title: Crow lifting off - Bergen
   - src: IMG_6664.jpg

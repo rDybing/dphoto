@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2025 (c) Roy Dybing</copyright>
-    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, July 2025</title>
+      <link>http://localhost:1313/bergen2507/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2507/</guid>
+        <media:content url="http://localhost:1313/bergen2507/250705_hu_a6f79279bfac6231.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2507/250705_hu_a6f79279bfac6231.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in July 2025&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, June 2025</title>
       <link>http://localhost:1313/bergen2506/</link>
@@ -99,6 +109,16 @@
           &lt;p&gt;If it moves - and is at least somewhat exotic - it&#39;ll be posted here!&lt;/p&gt;
         </description></item>
     <item>
+      <title>Fauna</title>
+      <link>http://localhost:1313/florafauna/fauna/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/florafauna/fauna/</guid>
+        <media:content url="http://localhost:1313/florafauna/fauna/IMG_2525_hu_7bc104101ad59b4c.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2525_hu_7bc104101ad59b4c.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Flora</title>
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
@@ -106,16 +126,6 @@
         <media:content url="http://localhost:1313/florafauna/flora/IMG_2676_hu_845b4418c1d0ac1a.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_2676_hu_845b4418c1d0ac1a.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Fauna</title>
-      <link>http://localhost:1313/florafauna/fauna/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/fauna/</guid>
-        <media:content url="http://localhost:1313/florafauna/fauna/IMG_2525_hu_7bc104101ad59b4c.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2525_hu_7bc104101ad59b4c.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

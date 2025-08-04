@@ -21,4 +21,6 @@ resources:
     title: White flowers on bush - Bergen
   - src: IMG_9145.jpg
     title: Tulip - Bergen
+  - src: P7290027.jpg
+    title: Flower macro - Bergen
 ---
