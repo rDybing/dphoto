@@ -17,7 +17,7 @@ Mostly do street photography, snapping photos of what catches my eye.
 
 ### Editing
 
-I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimal and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy. Finally, to make the colours pop a bit more, I usually settle for a colour temperature of around 5k and apply Fujifilm Velvia (day shots) or Provia (night shots) filter. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
+I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimal and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy. Finally, to make the colours pop a bit more, I usually settle for a colour temperature of around 5k and apply Fujifilm Velvia (day shots) or Provia (night shots) LUT. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
 
 ### Gear
 
@@ -39,11 +39,10 @@ Oh, and the R100 being a APS-C crop sensor camera - multiply the Focal Length of
 
 **For when wet and miserable:**
 
+- OM System TG-7 25-100mm F2-4.9
 - Kodak Pixpro WPZ2 27-108mm F3-6.6
 
 Not Weather Sealed, oh no - Watertight is more like it. Down to 15 Meters. Not that I do any swimming, but the weather here in Bergen can at times be like standing under a shower...
-
-Yes, not quite the same versatility as the Canon camera, and certainly not the same level of control. No adjusting aperture for instance, that goes up and down with zoom. Oh, and no RAW files, JPEG only. Quality is decent enough straight out of camera however - assuming daylight and outdoors.
 
 ### Contact
 

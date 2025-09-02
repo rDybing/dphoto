@@ -1,6 +1,6 @@
 ---
-date: 2025-08-01
-featured_image: IMG_1890.jpg
+date: 2025-09-01
+featured_image: IMG_3245.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -17,8 +17,8 @@ resources:
     title: Flower with the dew on the petals - Bergen
   - src: IMG_6003.jpg
     title: Crawling vine on fence - Bergen
-  - src: IMG_8404.jpg
-    title: White flowers on bush - Bergen
+  - src: IMG_3245.jpg
+    title: Orange and Teal roses - Bergen
   - src: IMG_9145.jpg
     title: Tulip - Bergen
   - src: P7290027.jpg

@@ -1,5 +1,5 @@
 ---
-date: 2025-06-21
+date: 2025-08-01
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
 featured_image: IMG_3871.jpg
 menus: "main"
@@ -16,8 +16,8 @@ resources:
     title: Traditional wood houses in alleyway at night - Bergen
   - src: IMG_2759.jpg
     title: Norwegian Flag grafitti - Bergen
-  - src: IMG_2784.jpg
-    title: Galleriet skylight - Bergen
+  - src: IMG_6033.jpg
+    title: Some maintenance required - Bergen
   - src: IMG_3511.jpg
     title: Mariakirken in winter afternoon light - Bergen
   - src: IMG_3871.jpg

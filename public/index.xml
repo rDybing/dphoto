@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2025 (c) Roy Dybing</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, August 2025</title>
+      <link>http://localhost:1313/bergen2508/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2508/</guid>
+        <media:content url="http://localhost:1313/bergen2508/250807_hu_d5252c4371f2dde5.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2508/250807_hu_d5252c4371f2dde5.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in August 2025&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, July 2025</title>
       <link>http://localhost:1313/bergen2507/</link>
@@ -19,64 +29,14 @@
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in July 2025&lt;/p&gt;
         </description></item>
     <item>
-      <title>Bergen, June 2025</title>
-      <link>http://localhost:1313/bergen2506/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2506/</guid>
-        <media:content url="http://localhost:1313/bergen2506/250609_hu_440bfbd5427d0010.jpg" type="image/jpeg"/>
+      <title>Best from Bergen, 1st. half of 2025</title>
+      <link>http://localhost:1313/best25_1/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/best25_1/</guid>
+        <media:content url="http://localhost:1313/best25_1/250107_hu_f2d53e5500f4171f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2506/250609_hu_440bfbd5427d0010.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in June 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Bergen, May 2025</title>
-      <link>http://localhost:1313/bergen2505/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2505/</guid>
-        <media:content url="http://localhost:1313/bergen2505/250512_hu_d5a44034af0dd296.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2505/250512_hu_d5a44034af0dd296.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in May 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Bergen, April 2025</title>
-      <link>http://localhost:1313/bergen2504/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2504/</guid>
-        <media:content url="http://localhost:1313/bergen2504/250414_hu_8cf3f2898a1a62d0.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2504/250414_hu_8cf3f2898a1a62d0.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in April 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Bergen, March 2025</title>
-      <link>http://localhost:1313/bergen2503/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2503/</guid>
-        <media:content url="http://localhost:1313/bergen2503/250301_hu_70eb990ea52bbe0.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2503/250301_hu_70eb990ea52bbe0.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in March 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Bergen, February 2025</title>
-      <link>http://localhost:1313/bergen2502/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2502/</guid>
-        <media:content url="http://localhost:1313/bergen2502/250206_hu_93c66199a51c895b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2502/250206_hu_93c66199a51c895b.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in February 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Bergen, January 2025</title>
-      <link>http://localhost:1313/bergen2501/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bergen2501/</guid>
-        <media:content url="http://localhost:1313/bergen2501/250107_hu_f2d53e5500f4171f.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/bergen2501/250107_hu_f2d53e5500f4171f.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in January 2025&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/best25_1/250107_hu_f2d53e5500f4171f.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in the 1st. half of 2025&lt;/p&gt;
         </description></item>
     <item>
       <title>Best from Bergen, 2024</title>
@@ -91,7 +51,7 @@
     <item>
       <title>Art &amp; Architecure</title>
       <link>http://localhost:1313/artarchitecure/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artarchitecure/</guid>
         <media:content url="http://localhost:1313/artarchitecure/IMG_3871_hu_5d72136e5e99993c.jpg" type="image/jpeg"/>
         <description>
@@ -109,6 +69,16 @@
           &lt;p&gt;If it moves - and is at least somewhat exotic - it&#39;ll be posted here!&lt;/p&gt;
         </description></item>
     <item>
+      <title>Flora</title>
+      <link>http://localhost:1313/florafauna/flora/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/florafauna/flora/</guid>
+        <media:content url="http://localhost:1313/florafauna/flora/IMG_3245_hu_5b0657d11313bd07.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_3245_hu_5b0657d11313bd07.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Fauna</title>
       <link>http://localhost:1313/florafauna/fauna/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -116,16 +86,6 @@
         <media:content url="http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Flora</title>
-      <link>http://localhost:1313/florafauna/flora/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/flora/</guid>
-        <media:content url="http://localhost:1313/florafauna/flora/IMG_1890_hu_5826515557919986.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_1890_hu_5826515557919986.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
