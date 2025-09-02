@@ -1,6 +1,6 @@
 ---
 description: A collection of my fifteen favourite photos from Bergen in the 1st. half of 2025
-featured_image: 241201.jpg
+featured_image: 250512.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
