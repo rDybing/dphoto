@@ -1,5 +1,5 @@
 ---
-description: Updated September 1st - Added August pictures.
+description: Updated October 1st - Added September pictures.
 #lastmod: 2025-09-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
