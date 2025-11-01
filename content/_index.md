@@ -1,6 +1,6 @@
 ---
-description: Updated October 12th - New shots in Flora and Fauna.
-#lastmod: 2025-09-01
+description: Updated November 1st - Added October.
+#lastmod: 2025-10-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
