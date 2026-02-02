@@ -6,8 +6,18 @@
     <description>Recent content in Photos from my walkabouts on dybing.photo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2024-2025 (c) Roy Dybing</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024-2026 (c) Roy Dybing</copyright>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, January 2026</title>
+      <link>http://localhost:1313/bergen2601/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2601/</guid>
+        <media:content url="http://localhost:1313/bergen2601/260106_hu_c2a9bfcf347a9f55.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2601/260106_hu_c2a9bfcf347a9f55.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in January 2026&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, December 2025</title>
       <link>http://localhost:1313/bergen2512/</link>

@@ -23,6 +23,7 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 **For when nice and dry:**
 
+- canon EOS R7
 - Canon EOS R100
 - 10mm F2 (MF)
 - 16mm F2.8 (AF)
@@ -35,7 +36,7 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot, but a bit of restraint is a good thing!
 
-Oh, and the R100 being a APS-C crop sensor camera - multiply the Focal Length of the lenses by 1.6 for the Full Frame equivalent. The petite size of the camera body and the smaller lighter lenses make for a very good Street Photo combo.
+Oh, and the R7 and R100 both being a APS-C crop sensor camera - multiply the Focal Length of the lenses by 1.6 for the Full Frame equivalent. The petite size of the camera body and the smaller lighter lenses make for a very good Street Photo combo.
 
 **For when wet and miserable:**
 

@@ -1,6 +1,6 @@
 ---
-description: Updated January 1st - Added December.
-#lastmod: 2026-01-01
+description: Updated February 1st - Added January.
+#lastmod: 2026-02-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
