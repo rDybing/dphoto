@@ -119,6 +119,16 @@
           &lt;p&gt;If it moves - and is at least somewhat exotic - it&#39;ll be posted here!&lt;/p&gt;
         </description></item>
     <item>
+      <title>Fauna</title>
+      <link>http://localhost:1313/florafauna/fauna/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/florafauna/fauna/</guid>
+        <media:content url="http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Flora</title>
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
@@ -126,16 +136,6 @@
         <media:content url="http://localhost:1313/florafauna/flora/IMG_3754_hu_e1047dba48dfa57c.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_3754_hu_e1047dba48dfa57c.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Fauna</title>
-      <link>http://localhost:1313/florafauna/fauna/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/florafauna/fauna/</guid>
-        <media:content url="http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/fauna/IMG_2138_hu_5cc4ab208a63f683.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

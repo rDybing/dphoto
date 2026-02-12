@@ -1,5 +1,5 @@
 ---
-description: Updated February 1st - Added January.
+description: Updated February 12th - Added to Fauna.
 #lastmod: 2026-02-01
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

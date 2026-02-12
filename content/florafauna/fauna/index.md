@@ -1,5 +1,5 @@
 ---
-date: 2025-08-01
+date: 2026-02-01
 featured_image: IMG_2138.jpg
 title: Fauna
 #type: gallery
@@ -19,6 +19,8 @@ resources:
     title: Wet pigeon - Bergen
   - src: IMG_4029.jpg
     title: Crow lifting off - Bergen
-  - src: IMG_6664.jpg
-    title: Duckies in water - Bergen 
+  - src: IMG_4448.jpg
+    title: Duck keeping warm - Bergen
+  - src: IR7_6173.jpg
+    title: Seagull in flight - Bergen
 ---
