@@ -6,7 +6,7 @@ sort_by: Name # Exif.Date
 #sort_order: asc
 title: Best from Bergen, 1st. half of 2025
 date: 2025-06-08
-keywords: [Bergen, "2024"]
+keywords: [Bergen, "2025"]
 #type: gallery
 weight: 6
 resources:

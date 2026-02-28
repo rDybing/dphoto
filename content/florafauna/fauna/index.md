@@ -9,8 +9,8 @@ resources:
     title: Cormorant on a visit to the central park - Bergen
   - src: IMG_1201.jpg
     title: Urban Crow - Bergen
-  - src: IMG_3417.jpg
-    title: Swan portrait - Bergen
+  - src: IMG_2409.jpg
+    title: Baby duck and mommy duck - Bergen
   - src: IMG_2524.jpg
     title: Trio of swans - Bergen
   - src: IMG_2525.jpg

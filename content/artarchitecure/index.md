@@ -1,5 +1,5 @@
 ---
-date: 2025-08-01
+date: 2026-01-01
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
 featured_image: IMG_3871.jpg
 menus: "main"
@@ -28,8 +28,8 @@ resources:
     title: Sandviken buildings in winter morning light - Bergen
   - src: IMG_6449.jpg
     title: Cat and Boy mural on wall - Bergen
-  - src: IMG_7301.jpg
-    title: Water installation outside Grieghallen - Bergen
+  - src: 251102.jpg
+    title: Barbie Bone - Bergen
   - src: IMG_9516.jpg
     title: Fountain in Nygårdsparken - Bergen
   - src: IMG_9601.jpg
