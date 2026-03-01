@@ -1,0 +1,9 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  # pick a supported Hugo version (example below). Use a version compatible with your site.
+  HUGO_VERSION = "0.157.0"
+  # If you use SASS/SCSS, enable the extended binary:
+  # HUGO_EXTENDED = "true"
