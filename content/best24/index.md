@@ -1,6 +1,6 @@
 ---
 description: A collection of my fifteen favourite photos from Bergen in 2024
-featured_image: 241201.jpg
+featured_image: 240806b.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -10,12 +10,12 @@ keywords: [Bergen, "2024"]
 #type: gallery
 weight: 6
 resources:
-  - src: 240711.jpg
-    title: Family fun in the park - June
+  - src: 240711b.jpg
+    title: Underpass - June
   - src: 240802.jpg
     title: Not very sober man cooling his feet in a fountain - August
-  - src: 240806.jpg
-    title: The Music Pavillion at night - August
+  - src: 240806b.jpg
+    title: Tourists at dusk - August
   - src: 240813.jpg
     title: People in park at night - August
   - src: 240814.jpg
@@ -24,8 +24,8 @@ resources:
     title: Couple on escalator - September
   - src: 240905.jpg
     title: Park and homes - September
-  - src: 240906.jpg
-    title: Summer Sunset - September
+  - src: 240906b.jpg
+    title: Running stairs - September
   - src: 240910.jpg
     title: Silhouette kid with football - September
   - src: 241103.jpg
@@ -34,8 +34,8 @@ resources:
     title: Successful night prowler - November
   - src: 241201.jpg
     title: View at sunset - December
-  - src: 241207.jpg
-    title: Locked up bikes at night - December
+  - src: 241207b.jpg
+    title: Central Park by night - December
   - src: 241210.jpg
     title: Night-time scene in backstreets - December
   - src: 241212.jpg
