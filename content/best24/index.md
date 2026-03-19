@@ -18,16 +18,16 @@ resources:
     title: Tourists at dusk - August
   - src: 240813.jpg
     title: People in park at night - August
-  - src: 240814.jpg
-    title: Local pewdiecat - August
+  - src: 240814b.jpg
+    title: Inner Puddefjorden boardwalk - August
   - src: 240901.jpg
     title: Couple on escalator - September
   - src: 240905.jpg
     title: Park and homes - September
   - src: 240906b.jpg
     title: Running stairs - September
-  - src: 240910.jpg
-    title: Silhouette kid with football - September
+  - src: 241000.jpg
+    title: Greenhouse livingroom boat? - October
   - src: 241103.jpg
     title: Signage going up at renovated old shopping center - November
   - src: 241106.jpg
