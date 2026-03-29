@@ -23,4 +23,6 @@ resources:
     title: Duck keeping warm - Bergen
   - src: IR7_6173.jpg
     title: Seagull in flight - Bergen
+  - src: IR7_7518.jpg
+    title: Crow on a wire - Bergen
 ---

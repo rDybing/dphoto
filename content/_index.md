@@ -1,6 +1,6 @@
 ---
-description: Updated March 1st - Collapsed 2nd half of 2025 and added February.
-#lastmod: 2026-02-01
+description: Updated March 29th - Redid Art and Architecture.
+#lastmod: 2026-03-29
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
