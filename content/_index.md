@@ -1,5 +1,5 @@
 ---
-description: Updated March 29th - Redid Art and Architecture.
+description: Updated April 1st - Added March favourite photos.
 #lastmod: 2026-03-29
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

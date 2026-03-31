@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2026 (c) Roy Dybing</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, March 2026</title>
+      <link>http://localhost:1313/bergen2603/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2603/</guid>
+        <media:content url="http://localhost:1313/bergen2603/260308_hu_55df312be02e33c5.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2603/260308_hu_55df312be02e33c5.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in March 2026&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, February 2026</title>
       <link>http://localhost:1313/bergen2602/</link>
@@ -59,13 +69,13 @@
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in 2024&lt;/p&gt;
         </description></item>
     <item>
-      <title>Art &amp; Architecure</title>
-      <link>http://localhost:1313/artarchitecure/</link>
+      <title>Art &amp; Architecture</title>
+      <link>http://localhost:1313/artarchitecture/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artarchitecure/</guid>
-        <media:content url="http://localhost:1313/artarchitecure/IMG_3158_hu_10071b44f98a5329.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artarchitecture/</guid>
+        <media:content url="http://localhost:1313/artarchitecture/IMG_3158_hu_10071b44f98a5329.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/artarchitecure/IMG_3158_hu_10071b44f98a5329.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artarchitecture/IMG_3158_hu_10071b44f98a5329.jpg&quot; /&gt;
           &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
         </description></item>
     <item>
