@@ -29,7 +29,7 @@ resources:
   - src: 260309.jpg
     title: Windy and wet
   - src: 260310.jpg
-    title: Playgound blue hour
+    title: Playground blue hour
   - src: 260311.jpg
     title: Night street scene
   - src: 260312.jpg
