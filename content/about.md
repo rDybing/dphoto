@@ -30,7 +30,7 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 - TTArtisan 10mm F2 (MF)
 
-*Great for Architecture and Interiors. Very wide, but rectilinear so very little if any bowing and fisheye effect.*
+*Great for Architecture and Interiors. Very wide, but rectilinear so very little if any barrel and fisheye effect.*
 
 - Canon 16mm F2.8 (AF)
 
@@ -50,11 +50,11 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 - TTArtisan 250mm F5.6 (MF)
 
-*For those days where I'm chasing unique pictures - as it is a reflex mirror lens it produces some very visually pleasing donut blurries. Having a long focal length, it do demand IBIS to be able to focus properly.*
+*For those days where I'm chasing unique pictures - as it is a reflex mirror lens it produces some very visually pleasing donut blurries. Having a long focal length, it do demand IBIS to be able to focus properly and to negate camera shake at reasonable shutter speeds.*
 
 - Tamron 18-300mm F3.5-6.3 (AF)
 
-*The do it everything lens. From close up Macro to zooming in super tight to catch birds in flight. Only restriction is the variable aperture that really only make it suitable for daytime use. My one lens that don't mind a bit of rain.*
+*The do it everything lens. From close up Macro to zooming in super tight to catch birds in flight. Only restriction is the variable aperture that limit it to daytime use. My one lens that don't mind a bit of rain.*
 
 Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot - a bit of restraint is a good thing!
 

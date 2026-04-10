@@ -14,6 +14,8 @@ resources:
     title: Playground seating - Bergen
   - src: IMG_1510.jpg
     title: Summer stairs - Bergen
+  - src: IMG_1563.jpg
+    title: Central Park Fountain - Bergen
   - src: IMG_1612.jpg
     title: Sunset highrises - Bergen
   - src: IMG_2185.jpg
@@ -30,6 +32,8 @@ resources:
     title: Ant figurine - Bergen
   - src: IMG_5002.jpg
     title: Sidewalk detail - Bergen
+  - src: IMG_5218.jpg
+    title: Wooden Seagull - Bergen
   - src: IMG_6449.jpg
     title: Cat and Boy mural on wall - Bergen
   - src: IMG_9601.jpg
@@ -38,6 +42,8 @@ resources:
     title: Rain drain - Bergen
   - src: IR7_6755.jpg
     title: Glass globes on lamp - Bergen
+  - src: IR7_7604.jpg
+    title: The hobo street sculpture outside the old stock exchange - Bergen
   - src: P3061405.jpg
     title: Statue by Solheimsviken - Bergen
   - src: P8020100.jpg
