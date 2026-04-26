@@ -27,4 +27,6 @@ resources:
     title: Seagull in flight - Bergen
   - src: IR7_7518.jpg
     title: Crow on a wire - Bergen
+  - src: IR7_8614.jpg
+    title: tiny bird on bike - Bergen
 ---
