@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2026 (c) Roy Dybing</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, April 2026</title>
+      <link>http://localhost:1313/bergen2604/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2604/</guid>
+        <media:content url="http://localhost:1313/bergen2604/260415_hu_4c1bfb46825fdd66.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2604/260415_hu_4c1bfb46825fdd66.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in April 2026&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, March 2026</title>
       <link>http://localhost:1313/bergen2603/</link>
@@ -39,27 +49,17 @@
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in January 2026&lt;/p&gt;
         </description></item>
     <item>
-      <title>Best from Bergen, 2nd. half of 2025</title>
-      <link>http://localhost:1313/best25_2/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best25_2/</guid>
-        <media:content url="http://localhost:1313/best25_2/250701_hu_db2611e80b405471.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/best25_2/250701_hu_db2611e80b405471.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in the 2nd. half of 2025&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Best from Bergen, 1st. half of 2025</title>
-      <link>http://localhost:1313/best25_1/</link>
+      <title>Best from Bergen 2025</title>
+      <link>http://localhost:1313/best25/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best25_1/</guid>
-        <media:content url="http://localhost:1313/best25_1/250512_hu_d1d9851f065f3db7.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/best25/</guid>
+        <media:content url="http://localhost:1313/best25/250708_hu_13ac5af3dfd5e142.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/best25_1/250512_hu_d1d9851f065f3db7.jpg&quot; /&gt;
-          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in the 1st. half of 2025&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/best25/250708_hu_13ac5af3dfd5e142.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in 2025&lt;/p&gt;
         </description></item>
     <item>
-      <title>Best from Bergen, 2024</title>
+      <title>Best from Bergen 2024</title>
       <link>http://localhost:1313/best24/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/best24/</guid>
@@ -69,24 +69,24 @@
           &lt;p&gt;A collection of my fifteen favourite photos from Bergen in 2024&lt;/p&gt;
         </description></item>
     <item>
+      <title>Abstract</title>
+      <link>http://localhost:1313/abstract/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/abstract/</guid>
+        <media:content url="http://localhost:1313/abstract/P8110274_hu_1b574d0bc04fc3a3.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/abstract/P8110274_hu_1b574d0bc04fc3a3.jpg&quot; /&gt;
+          &lt;p&gt;Shapes, colour and contrast&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Art &amp; Architecture</title>
       <link>http://localhost:1313/artarchitecture/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artarchitecture/</guid>
-        <media:content url="http://localhost:1313/artarchitecture/IMG_3158_hu_10071b44f98a5329.jpg" type="image/jpeg"/>
+        <media:content url="http://localhost:1313/artarchitecture/IR7_7604_hu_942dd8de7fa445bd.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/artarchitecture/IMG_3158_hu_10071b44f98a5329.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artarchitecture/IR7_7604_hu_942dd8de7fa445bd.jpg&quot; /&gt;
           &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Vehicles</title>
-      <link>http://localhost:1313/vehicles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vehicles/</guid>
-        <media:content url="http://localhost:1313/vehicles/IMG_1900_hu_18041fc99cb7e11.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/vehicles/IMG_1900_hu_18041fc99cb7e11.jpg&quot; /&gt;
-          &lt;p&gt;If it moves - and is at least somewhat exotic - it&#39;ll be posted here!&lt;/p&gt;
         </description></item>
     <item>
       <title>Fauna</title>
