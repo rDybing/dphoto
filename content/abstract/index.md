@@ -1,7 +1,7 @@
 ---
 date: 2026-04-01
 description: Shapes, colour and contrast
-featured_image: P8110274.jpg
+featured_image: IR7_9551.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -36,6 +36,12 @@ resources:
     title: Lattice
   - src: IR7_8448.jpg
     title: Glass
+  - src: IR7_9548.jpg
+    title: Parklamp
+  - src: IR7_9551.jpg
+    title: Raindrops
+  - src: P5101926.jpg
+    title: RGB
   - src: P8110274.jpg
     title: Wet bulb
   - src: PB250828.jpg

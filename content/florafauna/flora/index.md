@@ -1,6 +1,6 @@
 ---
 date: 2026-01-01
-featured_image: IMG_3754.jpg
+featured_image: IR7_8953.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -25,6 +25,10 @@ resources:
     title: Orange flowers - Bergen
   - src: IR7_7430.jpg
     title: Wet flowers in a pot - Bergen
+  - src: IR7_8953.jpg
+    title: Pink? - Bergen
+  - src: IR7_9242.jpg
+    title: Tulip in decay - Bergen
   - src: P8110323.jpg
     title: Sunflowers and slug - Bergen
 ---

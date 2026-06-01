@@ -24,5 +24,7 @@ resources:
   - src: IR7_7518.jpg
     title: Crow on a wire - Bergen
   - src: IR7_8614.jpg
-    title: tiny bird on bike - Bergen
+    title: Tiny bird on bike - Bergen
+  - src: IR7_9225.jpg
+    title: Sparrow in a bush - Bergen
 ---

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2026 (c) Roy Dybing</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, May 2026</title>
+      <link>http://localhost:1313/bergen2605/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2605/</guid>
+        <media:content url="http://localhost:1313/bergen2605/260511_hu_6e2723a9fa021317.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2605/260511_hu_6e2723a9fa021317.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in May 2026&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, April 2026</title>
       <link>http://localhost:1313/bergen2604/</link>
@@ -73,9 +83,9 @@
       <link>http://localhost:1313/abstract/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/abstract/</guid>
-        <media:content url="http://localhost:1313/abstract/P8110274_hu_1b574d0bc04fc3a3.jpg" type="image/jpeg"/>
+        <media:content url="http://localhost:1313/abstract/IR7_9551_hu_ed4a0d41e6ab6d82.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/abstract/P8110274_hu_1b574d0bc04fc3a3.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/abstract/IR7_9551_hu_ed4a0d41e6ab6d82.jpg&quot; /&gt;
           &lt;p&gt;Shapes, colour and contrast&lt;/p&gt;
         </description></item>
     <item>
@@ -103,9 +113,9 @@
       <link>http://localhost:1313/florafauna/flora/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/florafauna/flora/</guid>
-        <media:content url="http://localhost:1313/florafauna/flora/IMG_3754_hu_e1047dba48dfa57c.jpg" type="image/jpeg"/>
+        <media:content url="http://localhost:1313/florafauna/flora/IR7_8953_hu_423d0912670906fe.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IMG_3754_hu_e1047dba48dfa57c.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/florafauna/flora/IR7_8953_hu_423d0912670906fe.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
