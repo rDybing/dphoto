@@ -1,5 +1,5 @@
 ---
-description: Updated June 1st - Added May favourite photos.
+description: Updated July 1st - Added June favourite photos.
 #lastmod: 2026-03-29
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

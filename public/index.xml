@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2024-2026 (c) Roy Dybing</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bergen, June 2026</title>
+      <link>http://localhost:1313/bergen2606/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bergen2606/</guid>
+        <media:content url="http://localhost:1313/bergen2606/260609_hu_144d3c3c8a3a7139.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/bergen2606/260609_hu_144d3c3c8a3a7139.jpg&quot; /&gt;
+          &lt;p&gt;A collection of my fifteen favourite photos from Bergen in June 2026&lt;/p&gt;
+        </description></item>
     <item>
       <title>Bergen, May 2026</title>
       <link>http://localhost:1313/bergen2605/</link>
@@ -83,9 +93,9 @@
       <link>http://localhost:1313/abstract/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/abstract/</guid>
-        <media:content url="http://localhost:1313/abstract/IR7_9551_hu_ed4a0d41e6ab6d82.jpg" type="image/jpeg"/>
+        <media:content url="http://localhost:1313/abstract/IMG_5553_hu_ea482756b3f4fb27.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/abstract/IR7_9551_hu_ed4a0d41e6ab6d82.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/abstract/IMG_5553_hu_ea482756b3f4fb27.jpg&quot; /&gt;
           &lt;p&gt;Shapes, colour and contrast&lt;/p&gt;
         </description></item>
     <item>
@@ -97,6 +107,16 @@
         <description>
           &lt;img src=&quot;http://localhost:1313/artarchitecture/IR7_7604_hu_942dd8de7fa445bd.jpg&quot; /&gt;
           &lt;p&gt;Buildings, architecture detail, sculptures, street art and fountains. It all goes here.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>World Cup Block Party</title>
+      <link>http://localhost:1313/worldcup26/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/worldcup26/</guid>
+        <media:content url="http://localhost:1313/worldcup26/IMG_5582_hu_d649a468cbcad54b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/worldcup26/IMG_5582_hu_d649a468cbcad54b.jpg&quot; /&gt;
+          &lt;p&gt;World Cup Neighbourhood Block Party 30th of June 2026&lt;/p&gt;
         </description></item>
     <item>
       <title>Fauna</title>

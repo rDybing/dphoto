@@ -1,7 +1,7 @@
 ---
 date: 2026-04-01
 description: Shapes, colour and contrast
-featured_image: IR7_9551.jpg
+featured_image: IMG_5553.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -12,8 +12,6 @@ weight: 9
 resources:
   - src: IMG_1646.jpg
     title: Sunset
-  - src: IMG_1681.jpg
-    title: Shadow
   - src: IMG_4389.jpg
     title: Clouds
   - src: IMG_4449.jpg
@@ -24,6 +22,8 @@ resources:
     title: Z
   - src: IMG_4775.jpg
     title: Diagonal blue
+  - src: IMG_5553.jpg
+    title: Waves
   - src: IMG_9440.jpg
     title: Flowing water
   - src: IR7_6755.jpg
@@ -42,6 +42,8 @@ resources:
     title: Raindrops
   - src: P5101926.jpg
     title: RGB
+  - src: P6040059.jpg
+    title: Bubbly
   - src: P8110274.jpg
     title: Wet bulb
   - src: PB250828.jpg
