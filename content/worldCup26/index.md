@@ -28,8 +28,6 @@ resources:
     title: Anothe Canine Footie Fan
   - src: IMG_5627.jpg
     title: Viewing Position
-  - src: IMG_5631.jpg
-    title: Almost over
   - src: IMG_5636.jpg
     title: 2-1
   - src: IMG_5665.jpg
