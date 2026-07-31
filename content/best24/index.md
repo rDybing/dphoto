@@ -4,7 +4,7 @@ featured_image: 240806b.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
-title: Best from Bergen 2024
+title: Favourites from 2024
 date: 2025-06-08
 keywords: [Bergen, "2024"]
 #type: gallery

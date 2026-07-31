@@ -5,26 +5,28 @@ title: Fauna
 #type: gallery
 sort_by: Name
 resources:
+  - src: 260415.jpg
+    title: Starfish out of its element
   - src: IMG_1201.jpg
-    title: Urban Crow - Bergen
+    title: Urban Crow
   - src: IMG_2138.jpg
-    title: Wet pigeon - Bergen
+    title: Wet pigeon
   - src: IMG_2409.jpg
-    title: Baby duck and mommy duck - Bergen
+    title: Baby duck and mommy duck
   - src: IMG_2524.jpg
-    title: Trio of swans - Bergen
+    title: Trio of swans
   - src: IMG_3714.jpg
-    title: Cormorant on a visit to the central park - Bergen
+    title: Cormorant on a visit to the central park
   - src: IMG_4448.jpg
-    title: Duck keeping warm - Bergen
+    title: Duck keeping warm
   - src: IR7_6084.jpg
-    title: Starlings silhouettes - Bergen
+    title: Starlings silhouettes
   - src: IR7_6173.jpg
-    title: Seagull in flight - Bergen
+    title: Seagull in flight
   - src: IR7_7518.jpg
-    title: Crow on a wire - Bergen
+    title: Crow on a wire
   - src: IR7_8614.jpg
-    title: Tiny bird on bike - Bergen
+    title: Tiny bird on bike
   - src: IR7_9225.jpg
-    title: Sparrow in a bush - Bergen
+    title: Sparrow in a bush
 ---
