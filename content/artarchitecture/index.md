@@ -14,6 +14,10 @@ resources:
     title: Rain drain
   - src: 260215.jpg
     title: Mariakirken (Church of Mary) corner light - in snow
+  - src: 260310.jpg
+    title: Playground sugar high depletion device
+  - src: IMG_1452.jpg
+    title: Playground seating
   - src: IMG_1510.jpg
     title: Summer stairs
   - src: IMG_1612.jpg
