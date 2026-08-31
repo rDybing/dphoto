@@ -1,6 +1,6 @@
 ---
-date: 2026-02-01
-featured_image: IMG_2138.jpg
+date: 2026-08-30
+featured_image: IR7_1185.jpg
 title: Fauna
 #type: gallery
 sort_by: Name
@@ -19,8 +19,12 @@ resources:
     title: Cormorant on a visit to the central park
   - src: IMG_4448.jpg
     title: Duck keeping warm
+  - src: IR7_1185.jpg
+    title: Talkative Crow
+  - src: IR7_1898.jpg
+    title: Posing Starling
   - src: IR7_6084.jpg
-    title: Starlings silhouettes
+    title: Starling
   - src: IR7_6173.jpg
     title: Seagull in flight
   - src: IR7_7518.jpg

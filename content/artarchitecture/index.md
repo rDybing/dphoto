@@ -1,7 +1,7 @@
 ---
-date: 2026-01-01
+date: 2026-08-30
 description: Buildings, architecture detail, sculptures, street art and fountains. It all goes here.
-featured_image: IR7_7604.jpg
+featured_image: P9190497.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
@@ -34,6 +34,8 @@ resources:
     title: Cat and Boy mural on wall
   - src: IMG_9601.jpg
     title: Art installation in relation to Festspillene 2025
+  - src: IR7_1582.jpg
+    title: Sandviken Seaside Sunset
   - src: IR7_7604.jpg
     title: The hobo street sculpture outside the old stock exchange
   - src: P3061405.jpg

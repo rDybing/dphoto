@@ -1,6 +1,6 @@
 ---
-date: 2026-01-01
-featured_image: IR7_8953.jpg
+date: 2026-08-30
+featured_image: IR7_1562.jpg
 title: Flora
 #type: gallery
 sort_by: Name
@@ -21,6 +21,8 @@ resources:
     title: Fall decay
   - src: IMG_8319.jpg
     title: Yellow in fall
+  - src: IR7_1562.jpg
+    title: Trollhegg (Alder Buckthorn)
   - src: IR7_7428.jpg
     title: Orange flowers
   - src: IR7_7430.jpg

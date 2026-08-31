@@ -1,6 +1,6 @@
 ---
 description: A collection of my fifteen favourite photos from Bergen in 2024
-featured_image: 240806b.jpg
+featured_image: 241210.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 #sort_order: asc
