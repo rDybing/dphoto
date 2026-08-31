@@ -14,6 +14,10 @@ Yes, I could have gotten a dog - problem is - I prefer cats 😺
 
 Mostly do street photography, snapping photos of what catches my eye.
 
+### A.I.
+
+Just say no! No A.I. of any kind have ever been used to modify any of my pictures - nor will there ever be!
+
 ### Editing
 
 I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimum and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy. Finally, to make the colours pop a bit more, I adjust a bit of contrast, temperature and LUTs. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
@@ -51,6 +55,10 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 - TTArtisan 250mm F5.6 (MF)
 
 *For those days where I'm chasing unique pictures - as it is a reflex mirror lens it produces some very visually pleasing donut blurries. Having a long focal length, it do demand IBIS to be able to focus properly and to negate camera shake at reasonable shutter speeds.*
+
+- Sigma 18-50mm F2.8 (AF)
+
+*Your standard zoom. Great for days where one want a bit of versatility, but not the weight and size of the Tamron Superzoom. Fast enough for difficult lighting conditions. Somewhat weather sealed, as in the mount is protected.*
 
 - Tamron 18-300mm F3.5-6.3 (AF)
 
