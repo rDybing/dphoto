@@ -18,9 +18,13 @@ Mostly do street photography, snapping photos of what catches my eye.
 
 Just say no! No A.I. of any kind have ever been used to modify any of my pictures - nor will there ever be!
 
+### Ethics
+
+I never manipulate, direct or arrange a scene. All photos are of what is there in the moment without any interaction from me. I do shoot in the open, no lurking around, which from time to time do lead to people acting a bit different. But what can one do? If they are not looking directly into the lens, I'm happy. However I got two notable exceptions to the interaction "rule". First and foremost - if the shot requires me to get real close and it involves a person, I will ask permission. Secondly, with dogs and cats I usually call on their attention to get them closer and look into the camera.
+
 ### Editing
 
-I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimum and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy. Finally, to make the colours pop a bit more, I adjust a bit of contrast, temperature and LUTs. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
+I use Darktable for all my edits and photo-organization. Not that I do much in editing. I tend to do the bare minimum and keep the photos as "real" as possible. Some rotation to get the vertical and/or horizontal level. Cropping where a photo is a bit busy in the edges. Finally, to make the colours pop a bit more, I adjust a bit of contrast, temperature and LUTs. Sometimes some minor touch up to get rid of dust-spots, but not often as I keep the gear pretty clean.
 
 ### Gear
 
@@ -42,11 +46,11 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 - TTArtisan 23mm F1.4 (MF)
 
-*My favourite manual lens. Great for hip shooting and quick reaction shots. Just zone focus out to 1.5 meters at F5.6 aperture, and you're set!*
+*My favourite manual lens. Great for hip shooting and quick reaction shots. Just zone focus out to 2 meters at F5.6 aperture, and you're set!*
 
 - TTArtisan 35mm F0.95 (MF)
 
-*The goto lens for night shots. May be a bit soft wide open - certainly full of "character". But step down to F1.4 to F2 and it behaves very nicely.*
+*The goto lens for night shots. May be a bit soft wide open - certainly full of "character". But step down to F1.4 to F2 and it sharpens up considerably in the middle. Where it counts.*
 
 - Canon 50mm F1.8 (AF)
 
@@ -58,11 +62,13 @@ I use Darktable for all my edits and photo-organization. Not that I do much in e
 
 - Sigma 18-50mm F2.8 (AF)
 
-*Your standard zoom. Great for days where one want a bit of versatility, but not the weight and size of the Tamron Superzoom. Fast enough for difficult lighting conditions. Somewhat weather sealed, as in the mount is protected.*
+*Your standard zoom. Great for days where one want a bit of versatility, but not the weight and size of the Tamron Superzoom. Fast enough for difficult lighting conditions. Somewhat weather sealed, as in the mount is protected. Light weight and small for what it do.*
 
 - Tamron 18-300mm F3.5-6.3 (AF)
 
-*The do it everything lens. From close up Macro to zooming in super tight to catch birds in flight. Only restriction is the variable aperture that limit it to daytime use. My one lens that don't mind a bit of rain.*
+*The do it everything lens. From close up near Macro to zooming in super tight to catch birds in flight. Only restriction is the variable aperture that limit it to daytime use. My one lens that don't mind a bit of rain. It is big, it is bulky, and at over 600g also quite hefty. Discrete it is not.*
+
+---
 
 Mind you, when going for a walkabout, I mount the lens I am in the mood for, and won't carry around any others. Puts restrictions on what I can shoot - a bit of restraint is a good thing!
 

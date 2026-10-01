@@ -1,6 +1,6 @@
 ---
-description: Updated September 1st - Added August favourite photos.
-#lastmod: 2026-08-30
+description: Updated October 1st - Added September favourite photos.
+#lastmod: 2026-09-30
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
