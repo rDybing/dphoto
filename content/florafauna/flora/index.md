@@ -1,5 +1,5 @@
 ---
-date: 2026-08-30
+date: 2026-10-06
 featured_image: IR7_1562.jpg
 title: Flora
 #type: gallery
@@ -7,8 +7,6 @@ sort_by: Name
 resources:
   - src: 251008.jpg
     title: Wet Leaf
-  - src: IMG_1243.jpg
-    title: Flower in garden
   - src: IMG_1577.jpg
     title: Yellow and Orange
   - src: IMG_1890.jpg
@@ -19,18 +17,14 @@ resources:
     title: Red berries
   - src: IMG_3754.jpg
     title: Fall decay
-  - src: IMG_8319.jpg
-    title: Yellow in fall
   - src: IR7_1562.jpg
     title: Trollhegg (Alder Buckthorn)
+  - src: IR7_2023.jpg
+    title: Wet Red Roses
   - src: IR7_7428.jpg
     title: Orange flowers
-  - src: IR7_7430.jpg
-    title: Wet flowers in a pot
   - src: IR7_8953.jpg
     title: Pink?
   - src: IR7_9242.jpg
     title: Tulip in decay
-  - src: P8110323.jpg
-    title: Sunflowers and slug
 ---

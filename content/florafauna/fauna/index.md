@@ -1,6 +1,6 @@
 ---
-date: 2026-08-30
-featured_image: IR7_1185.jpg
+date: 2026-10-06
+featured_image: IMG_4448.jpg
 title: Fauna
 #type: gallery
 sort_by: Name
@@ -23,14 +23,8 @@ resources:
     title: Talkative Crow
   - src: IR7_1898.jpg
     title: Posing Starling
-  - src: IR7_6084.jpg
-    title: Starling
-  - src: IR7_6173.jpg
-    title: Seagull in flight
-  - src: IR7_7518.jpg
-    title: Crow on a wire
-  - src: IR7_8614.jpg
-    title: Tiny bird on bike
+  - src: IR7_2036.jpg
+    title: Pigeon take-off
   - src: IR7_9225.jpg
     title: Sparrow in a bush
 ---
