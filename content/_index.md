@@ -1,5 +1,5 @@
 ---
-description: Updated October 6th - Added to Flora, Fauna and Art.
+description: Updated November 1st - Added October favourites
 #lastmod: 2026-09-30
 title: Photos from my walkabouts
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
