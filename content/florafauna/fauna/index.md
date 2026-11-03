@@ -1,6 +1,6 @@
 ---
 date: 2026-10-06
-featured_image: IMG_4448.jpg
+featured_image: IR7_3425.jpg
 title: Fauna
 #type: gallery
 sort_by: Name
@@ -25,6 +25,10 @@ resources:
     title: Posing Starling
   - src: IR7_2036.jpg
     title: Pigeon take-off
+  - src: IR7_3329.jpg
+    title: Duck spreading its' wings
+  - src: IR7_3425.jpg
+    title: Swan silhouette
   - src: IR7_9225.jpg
     title: Sparrow in a bush
 ---
